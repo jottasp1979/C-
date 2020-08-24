@@ -1,0 +1,13 @@
+/home/jair/Documents/#Git/Aula-000/bin/Debug/netcoreapp3.1/Aula-000
+/home/jair/Documents/#Git/Aula-000/bin/Debug/netcoreapp3.1/Aula-000.deps.json
+/home/jair/Documents/#Git/Aula-000/bin/Debug/netcoreapp3.1/Aula-000.runtimeconfig.json
+/home/jair/Documents/#Git/Aula-000/bin/Debug/netcoreapp3.1/Aula-000.runtimeconfig.dev.json
+/home/jair/Documents/#Git/Aula-000/bin/Debug/netcoreapp3.1/Aula-000.dll
+/home/jair/Documents/#Git/Aula-000/bin/Debug/netcoreapp3.1/Aula-000.pdb
+/home/jair/Documents/#Git/Aula-000/obj/Debug/netcoreapp3.1/Aula-000.csprojAssemblyReference.cache
+/home/jair/Documents/#Git/Aula-000/obj/Debug/netcoreapp3.1/Aula-000.AssemblyInfoInputs.cache
+/home/jair/Documents/#Git/Aula-000/obj/Debug/netcoreapp3.1/Aula-000.AssemblyInfo.cs
+/home/jair/Documents/#Git/Aula-000/obj/Debug/netcoreapp3.1/Aula-000.csproj.CoreCompileInputs.cache
+/home/jair/Documents/#Git/Aula-000/obj/Debug/netcoreapp3.1/Aula-000.dll
+/home/jair/Documents/#Git/Aula-000/obj/Debug/netcoreapp3.1/Aula-000.pdb
+/home/jair/Documents/#Git/Aula-000/obj/Debug/netcoreapp3.1/Aula-000.genruntimeconfig.cache
